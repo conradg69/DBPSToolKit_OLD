@@ -16,7 +16,6 @@ Function Get-BreaseReports {
         DEV  = 'http://wercovrdevsqld1/Reportserver'
     }
 
-    
     $Folder = @{
         BreaseLive           = '/Brease/'
         BreaseDev            = '/Brease_DEV/'
